@@ -1,6 +1,6 @@
-# Mohit Hub
+# Riptide Hub
 
-![Mohit Hub](thumbnail.jpg)
+![Riptide Hub](thumbnail.jpg)
 
 An all-in-one hub for **Blox Fruits**. It levels you from 1 to max, kills the
 bosses and raid bosses, runs the sea events, crafts and buys for you, and keeps
@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/robomohit/MohitHub/ma
 Paste that into your executor while you're in Blox Fruits. Open or hide the
 window with **Right Ctrl**, or change the key in Settings.
 
-Your settings are saved. Turn on **Load Mohit Hub after a teleport** in
+Your settings are saved. Turn on **Load Riptide Hub after a teleport** in
 Settings, and whenever the game moves you to a new server, the hub picks your
 team again and loads itself.
 
@@ -88,9 +88,9 @@ other players, and never spends Robux.
 
 ## Crash reports
 
-If Mohit Hub hits an error, it sends a short crash report so the bug can be
+If Riptide Hub hits an error, it sends a short crash report so the bug can be
 fixed. The report holds the error message, your executor's name, phone or PC,
-screen size, the game's place ID and the Mohit Hub build. It never holds your
+screen size, the game's place ID and the Riptide Hub build. It never holds your
 username, account data or anything about your items, and your name and ID are
 removed from the error text before it's sent. At most five reports are sent a
 session, and never the same one twice. If the hub can't start at all, you'll
